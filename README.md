@@ -1,7 +1,5 @@
 # YouTube Notes AI
 
-![YouTube Notes AI](https://via.placeholder.com/1200x400?text=YouTube+Notes+AI)
-
 ## 📖 Overview
 
 **YouTube Notes AI** is a powerful Next.js application that automatically generates comprehensive, structured study notes from YouTube video transcripts. Utilizing cutting-edge AI via the Groq API, it transforms lengthy video content into easy-to-read, actionable insights for students, professionals, and lifelong learners.
